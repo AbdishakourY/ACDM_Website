@@ -24,8 +24,8 @@ const ContactUs = () => {
 
     emailjs
       .send(
-        "service_na7lodu",       // Replace with your EmailJS service ID
-        "template_bzvvtow",      // Replace with your EmailJS template ID
+        "service_8uljq6m",       // Replace with your EmailJS service ID
+        "template_78xwsgu",      // Replace with your EmailJS template ID
         formData,
         "9v7frkj4uMmaMblc9"      // Replace with your EmailJS public key
       )
