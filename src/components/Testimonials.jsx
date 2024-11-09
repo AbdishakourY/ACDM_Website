@@ -16,7 +16,7 @@ const Testimonials = () => {
         <div className="w-full sm:w-1/2 lg:w-2/3 px-4 py-2">
           <div className="bg-orange-100 rounded-md p-6 text-xl">
             <p>
-              PSDM (Protection Services for Displacement and Migration) is a
+              ACDM is a
               non-governmental organization dedicated to providing essential
               protection services for forcibly displaced individuals and
               migrants across Somalia and the East and Horn of Africa. We

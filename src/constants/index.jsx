@@ -62,31 +62,31 @@ export const features = [
     icon: <BotMessageSquare />,
     text: "Protection Services",
     description:
-      "PSDM focuses on providing protection services for forcibly displaced individuals and migrants in Somalia and the East and Horn of Africa, with an emphasis on community-based initiatives, child protection, legal advocacy, and gender-based violence (GBV) response. We support safe spaces and advocate for legal reforms to protect vulnerable groups, including women, children, and GBV survivors, while addressing protection gaps related to migration and climate change.",
+      "ACDM focuses on providing protection services for forcibly displaced individuals and migrants in Somalia and the East and Horn of Africa, with an emphasis on community-based initiatives, child protection, legal advocacy, and gender-based violence (GBV) response. We support safe spaces and advocate for legal reforms to protect vulnerable groups, including women, children, and GBV survivors, while addressing protection gaps related to migration and climate change.",
   },
   {
     icon: <Fingerprint />,
     text: "Climate-induced Displacement and Migration",
     description:
-      "PSDM addresses climate-induced displacement by protecting and supporting displaced individuals, bolstering their resilience to climate shocks, and advocating for their inclusion in climate adaptation policies while collaborating with communities to restore the environment and improve livelihoods.",
+      "ACDM addresses climate-induced displacement by protecting and supporting displaced individuals, bolstering their resilience to climate shocks, and advocating for their inclusion in climate adaptation policies while collaborating with communities to restore the environment and improve livelihoods.",
   },
   {
     icon: <ShieldHalf />,
     text: "Durable Solutions",
     description:
-      "PSDM focuses on promoting self-reliance and sustainable livelihoods for displaced individuals and migrants, ensuring their integration into host communities while advocating for legal protections and equitable access to essential services..",
+      "ACDM focuses on promoting self-reliance and sustainable livelihoods for displaced individuals and migrants, ensuring their integration into host communities while advocating for legal protections and equitable access to essential services..",
   },
   {
     icon: <BatteryCharging />,
     text: "Capacity Building",
     description:
-      "PSDM's capacity development initiatives enhance the technical skills of national authorities, align laws with international standards, and promote community-driven interventions to ensure forcibly displaced individuals and migrants access their rights, services, and long-term self-reliance.",
+      "ACDM's capacity development initiatives enhance the technical skills of national authorities, align laws with international standards, and promote community-driven interventions to ensure forcibly displaced individuals and migrants access their rights, services, and long-term self-reliance.",
   },
   {
     icon: <PlugZap />,
     text: "Advocacy & Policy Engagement",
     description:
-      "PSDM advocates for laws and policies that protect forcibly displaced individuals and migrants, collaborating with governments and stakeholders to align national frameworks with international standards, prioritize sustainable solutions, and emphasize child and gender-sensitive approaches.",
+      "ACDM advocates for laws and policies that protect forcibly displaced individuals and migrants, collaborating with governments and stakeholders to align national frameworks with international standards, prioritize sustainable solutions, and emphasize child and gender-sensitive approaches.",
   },
 ];
 
@@ -117,7 +117,7 @@ export const pricingOptions = [
   {
     title: "Objectives",
     features: [
-      "PSDM is committed to delivering comprehensive protection and sustainable solutions for individuals impacted by forced displacement, climate change, and migration. We recognize the urgency of their protection needs and are dedicated to supporting them in the process of rebuilding their lives with dignity, safety, and resilience. Our goal is to provide protection and solutions to every displaced individual and those on the move, regardless of whether their circumstances arise from conflict, persecution, climate change, and/or migration",
+      "ACDM is committed to delivering comprehensive protection and sustainable solutions for individuals impacted by forced displacement, climate change, and migration. We recognize the urgency of their protection needs and are dedicated to supporting them in the process of rebuilding their lives with dignity, safety, and resilience. Our goal is to provide protection and solutions to every displaced individual and those on the move, regardless of whether their circumstances arise from conflict, persecution, climate change, and/or migration",
     ],
   },
   {
