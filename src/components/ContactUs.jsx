@@ -40,8 +40,13 @@ const ContactUs = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit} id="contact" className="max-w-md mx-auto mt-10">
-      <h2 className="text-xl font-semibold mb-4">Contact Us</h2>
+    <form onSubmit={handleSubmit} id="contact" className="max-w-md mx-auto mt-10 py-28">
+        <h2 className="text-5xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20 ">
+          Contact{" "}
+          <span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text">
+            Us
+          </span>
+        </h2>
 
       <label className="block mb-2">
         Name
